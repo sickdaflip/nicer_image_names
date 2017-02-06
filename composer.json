@@ -1,0 +1,36 @@
+{
+  "name": "sickdaflip/nicer-image-names",
+  "type": "magento-module",
+  "license": "OSL-3.0",
+  "description": "Build the image file names from product attributes so they have neat descriptive image names.",
+  "authors": [
+    {
+      "name": "SickDaFlip",
+      "email": "philippbreitsprecher@gmail.com"
+    }
+  ],
+  "extra": {
+    "map": [
+      [
+        "app/code/community/Netzarbeiter/NicerImageNames/*",
+        "app/code/community/Netzarbeiter/NicerImageNames/"
+      ],
+      [
+        "app/etc/modules/Netzarbeiter_NicerImageNames.xml",
+        "app/etc/modules/Netzarbeiter_NicerImageNames.xml"
+      ],
+      [
+        "app/locale/de_DE/Netzarbeiter_NicerImageNames.csv",
+        "app/locale/de_DE/Netzarbeiter_NicerImageNames.csv"
+      ],
+      [
+        "app/locale/en_US/Netzarbeiter_NicerImageNames.csv",
+        "app/locale/en_US/Netzarbeiter_NicerImageNames.csv"
+      ],
+      [
+        "app/locale/it_IT/Netzarbeiter_NicerImageNames.csv",
+        "app/locale/it_IT/Netzarbeiter_NicerImageNames.csv"
+      ]
+    ]
+  }
+}
