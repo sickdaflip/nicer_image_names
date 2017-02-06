@@ -1,5 +1,5 @@
 {
-  "name": "sickdaflip/nicer-image-names",
+  "name": "sickdaflip/nicer_image_names",
   "type": "magento-module",
   "license": "OSL-3.0",
   "description": "Build the image file names from product attributes so they have neat descriptive image names.",
